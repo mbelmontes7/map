@@ -1,17 +1,11 @@
 
-## D280 – JAVASCRIPT PROGRAMMING
+JAVASCRIPT PROGRAMMING
 <!-- Welcome to JavaScript Programming! 
 For specific task instructions and requirements for this assessment, please refer to the course page. -->
 
 <!-- 
 1.   Create a README file that contains the configuration details of the project, including both of the following items student Id and angular version: -->
-## Project with student Id AND 
-**Student ID**:012251427 
-**Angular CLI Version**: 19.0.6  
-**Node Version**: 20.14.0  
-**Package Manager**: npm 10.8.2  
-**Operating System**: darwin arm64  
-**Angular Version**: 19.0.6 
+
 
  **What the project does**
 This project uses the World Bank API to dynamically to fetch and display information about countries by using an SVG. For example, When a user clicks on a country, the id of the clicked path is captured in the getCountryData method and then The id from the clicked country is sent to the API service which fetches detailed information about that country
@@ -33,5 +27,3 @@ Angular's routing
 - The method (getcountrydata) then accepts a two-letter country code and retrieves detailed information about the selected country when the user clicks on the map
 
 
-
-# map
