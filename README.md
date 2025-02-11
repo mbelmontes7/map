@@ -26,4 +26,4 @@ Angular's routing
 - A service  is implemented to make HTTP requests using Angular's  provideHttpClient() for API calls
 - The method (getcountrydata) then accepts a two-letter country code and retrieves detailed information about the selected country when the user clicks on the map
 
-
+https://github.com/user-attachments/assets/7ea7c65e-472e-452f-be82-abb230c6aa87 
